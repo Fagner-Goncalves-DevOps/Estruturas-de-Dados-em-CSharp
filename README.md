@@ -1,6 +1,6 @@
 # Estruturas de Dados em CSharp
 
-Conteudo aplicado e organizado, com bases em estudos e conteudos de apostilhas, livros, artigos
+Conteúdo aplicado e organizado, com bases em estudos e apostilhas, livros e artigos
 
 ## Tipos de Dados
 
