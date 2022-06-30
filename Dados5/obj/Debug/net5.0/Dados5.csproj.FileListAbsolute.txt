@@ -1,0 +1,15 @@
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Dados5\bin\Debug\net5.0\Dados5.exe
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Dados5\bin\Debug\net5.0\Dados5.deps.json
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Dados5\bin\Debug\net5.0\Dados5.runtimeconfig.json
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Dados5\bin\Debug\net5.0\Dados5.runtimeconfig.dev.json
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Dados5\bin\Debug\net5.0\Dados5.dll
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Dados5\bin\Debug\net5.0\ref\Dados5.dll
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Dados5\bin\Debug\net5.0\Dados5.pdb
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Dados5\obj\Debug\net5.0\Dados5.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Dados5\obj\Debug\net5.0\Dados5.AssemblyInfoInputs.cache
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Dados5\obj\Debug\net5.0\Dados5.AssemblyInfo.cs
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Dados5\obj\Debug\net5.0\Dados5.csproj.CoreCompileInputs.cache
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Dados5\obj\Debug\net5.0\Dados5.dll
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Dados5\obj\Debug\net5.0\ref\Dados5.dll
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Dados5\obj\Debug\net5.0\Dados5.pdb
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Dados5\obj\Debug\net5.0\Dados5.genruntimeconfig.cache

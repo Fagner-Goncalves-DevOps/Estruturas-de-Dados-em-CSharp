@@ -40,11 +40,13 @@ namespace Dados3
                double[,] matriz = new double[numLinhas, numColunas];
 
                Exemplos de inicialização:
+
                int[] vetor = { 10, 20, 30, 40, 50 };
                int[,] matriz = { { 1, 2 }, { 3, 4 }, { 5, 6 } };
 
              */
 
+            //vetor e matriz 2D
             int i, j;
             int[] vetor = { 10, 20, 30, 40, 50 };
 
@@ -57,10 +59,8 @@ namespace Dados3
             const int numeroColunas = 2;
 
             int[,] matriz = { { 1, 2 }, { 3, 4 }, { 5, 6 } };
-            for (i=0; i<numeroLinhas;i++) 
-            {
-                for (j = 0; j < numeroColunas; j++) 
-                {
+            for (i=0; i<numeroLinhas;i++) {
+                for (j = 0; j < numeroColunas; j++) {
                     Console.WriteLine(i + ":" + j + ":" + matriz[i, j]);
                 }
             }
