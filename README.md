@@ -1,6 +1,7 @@
 # Estruturas de Dados em CSharp
 
+## Tipos de Dados
 
- Consumindo APi usando MVC com Autenticação, AspNetCore.
-
-## Que já foi implementado :
+1-Primitivos-EstruturadosComplexos
+- Dados1
+- Dados2
