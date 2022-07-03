@@ -1,0 +1,16 @@
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Matriz1\bin\Debug\net5.0\Matriz1.exe
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Matriz1\bin\Debug\net5.0\Matriz1.deps.json
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Matriz1\bin\Debug\net5.0\Matriz1.runtimeconfig.json
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Matriz1\bin\Debug\net5.0\Matriz1.runtimeconfig.dev.json
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Matriz1\bin\Debug\net5.0\Matriz1.dll
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Matriz1\bin\Debug\net5.0\ref\Matriz1.dll
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Matriz1\bin\Debug\net5.0\Matriz1.pdb
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Matriz1\obj\Debug\net5.0\Matriz1.csproj.AssemblyReference.cache
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Matriz1\obj\Debug\net5.0\Matriz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Matriz1\obj\Debug\net5.0\Matriz1.AssemblyInfoInputs.cache
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Matriz1\obj\Debug\net5.0\Matriz1.AssemblyInfo.cs
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Matriz1\obj\Debug\net5.0\Matriz1.csproj.CoreCompileInputs.cache
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Matriz1\obj\Debug\net5.0\Matriz1.dll
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Matriz1\obj\Debug\net5.0\ref\Matriz1.dll
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Matriz1\obj\Debug\net5.0\Matriz1.pdb
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Matriz1\obj\Debug\net5.0\Matriz1.genruntimeconfig.cache

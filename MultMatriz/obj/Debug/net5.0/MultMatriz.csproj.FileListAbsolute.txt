@@ -1,0 +1,16 @@
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\MultMatriz\bin\Debug\net5.0\MultMatriz.exe
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\MultMatriz\bin\Debug\net5.0\MultMatriz.deps.json
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\MultMatriz\bin\Debug\net5.0\MultMatriz.runtimeconfig.json
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\MultMatriz\bin\Debug\net5.0\MultMatriz.runtimeconfig.dev.json
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\MultMatriz\bin\Debug\net5.0\MultMatriz.dll
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\MultMatriz\bin\Debug\net5.0\ref\MultMatriz.dll
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\MultMatriz\bin\Debug\net5.0\MultMatriz.pdb
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\MultMatriz\obj\Debug\net5.0\MultMatriz.csproj.AssemblyReference.cache
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\MultMatriz\obj\Debug\net5.0\MultMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\MultMatriz\obj\Debug\net5.0\MultMatriz.AssemblyInfoInputs.cache
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\MultMatriz\obj\Debug\net5.0\MultMatriz.AssemblyInfo.cs
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\MultMatriz\obj\Debug\net5.0\MultMatriz.csproj.CoreCompileInputs.cache
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\MultMatriz\obj\Debug\net5.0\MultMatriz.dll
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\MultMatriz\obj\Debug\net5.0\ref\MultMatriz.dll
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\MultMatriz\obj\Debug\net5.0\MultMatriz.pdb
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\MultMatriz\obj\Debug\net5.0\MultMatriz.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Ordenar\bin\Debug\net5.0\Ordenar.exe
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Ordenar\bin\Debug\net5.0\Ordenar.deps.json
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Ordenar\bin\Debug\net5.0\Ordenar.runtimeconfig.json
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Ordenar\bin\Debug\net5.0\Ordenar.runtimeconfig.dev.json
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Ordenar\bin\Debug\net5.0\Ordenar.dll
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Ordenar\bin\Debug\net5.0\ref\Ordenar.dll
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Ordenar\bin\Debug\net5.0\Ordenar.pdb
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Ordenar\obj\Debug\net5.0\Ordenar.csproj.AssemblyReference.cache
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Ordenar\obj\Debug\net5.0\Ordenar.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Ordenar\obj\Debug\net5.0\Ordenar.AssemblyInfoInputs.cache
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Ordenar\obj\Debug\net5.0\Ordenar.AssemblyInfo.cs
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Ordenar\obj\Debug\net5.0\Ordenar.csproj.CoreCompileInputs.cache
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Ordenar\obj\Debug\net5.0\Ordenar.dll
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Ordenar\obj\Debug\net5.0\ref\Ordenar.dll
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Ordenar\obj\Debug\net5.0\Ordenar.pdb
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Ordenar\obj\Debug\net5.0\Ordenar.genruntimeconfig.cache
