@@ -2,6 +2,7 @@
 
 Conteúdo aplicado e organizado, com bases em estudos e apostilhas, livros e artigos
 
+## 00-Geral CSharp
 ## 01-Tipos de Dados
 
 1-Primitivos-EstruturadosComplexos
