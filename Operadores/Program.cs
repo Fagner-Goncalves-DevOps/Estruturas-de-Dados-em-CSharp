@@ -54,5 +54,4 @@ namespace Operadores
             //resultado não esta chovendo
         }
     }
-    }
 }

@@ -1,0 +1,15 @@
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\ModeloSoma1a\bin\Debug\net5.0\ModeloSoma1a.exe
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\ModeloSoma1a\bin\Debug\net5.0\ModeloSoma1a.deps.json
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\ModeloSoma1a\bin\Debug\net5.0\ModeloSoma1a.runtimeconfig.json
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\ModeloSoma1a\bin\Debug\net5.0\ModeloSoma1a.runtimeconfig.dev.json
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\ModeloSoma1a\bin\Debug\net5.0\ModeloSoma1a.dll
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\ModeloSoma1a\bin\Debug\net5.0\ref\ModeloSoma1a.dll
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\ModeloSoma1a\bin\Debug\net5.0\ModeloSoma1a.pdb
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\ModeloSoma1a\obj\Debug\net5.0\ModeloSoma1a.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\ModeloSoma1a\obj\Debug\net5.0\ModeloSoma1a.AssemblyInfoInputs.cache
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\ModeloSoma1a\obj\Debug\net5.0\ModeloSoma1a.AssemblyInfo.cs
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\ModeloSoma1a\obj\Debug\net5.0\ModeloSoma1a.csproj.CoreCompileInputs.cache
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\ModeloSoma1a\obj\Debug\net5.0\ModeloSoma1a.dll
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\ModeloSoma1a\obj\Debug\net5.0\ref\ModeloSoma1a.dll
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\ModeloSoma1a\obj\Debug\net5.0\ModeloSoma1a.pdb
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\ModeloSoma1a\obj\Debug\net5.0\ModeloSoma1a.genruntimeconfig.cache
