@@ -13,3 +13,4 @@ C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\Estrutu
 C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\ModeloSoma1a\obj\Debug\net5.0\ref\ModeloSoma1a.dll
 C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\ModeloSoma1a\obj\Debug\net5.0\ModeloSoma1a.pdb
 C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\ModeloSoma1a\obj\Debug\net5.0\ModeloSoma1a.genruntimeconfig.cache
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\ModeloSoma1a\obj\Debug\net5.0\ModeloSoma1a.csproj.AssemblyReference.cache

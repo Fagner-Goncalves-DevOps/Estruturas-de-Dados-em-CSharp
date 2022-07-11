@@ -8,14 +8,17 @@ namespace ModeloSoma1a
         static void Main(string[] args)
         {
             var result = SomarPares();
+            //impares
+
             mostrarConsole(result);
+            //usando classe externa
 
         }
 
         //usando metodos statics
         public static int SomarPares() 
         {
-            var valores = new List<int>() { 1, 2, 4, 5, 8, 26, 23, 4, 2, 10, 5, 1, 7 };//56
+            var valores = new List<int>() { 1, 2, 4, 5, 8, 26, 23, 4, 2, 10, 5, 1, 7 };//56 //i42
             int soma = 0;
 
             for (int i = 0; i < valores.Count; i++) {
@@ -31,3 +34,4 @@ namespace ModeloSoma1a
         }
     }
 }
+
