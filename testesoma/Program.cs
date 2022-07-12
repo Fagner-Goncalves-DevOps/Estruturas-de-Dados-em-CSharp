@@ -18,11 +18,10 @@ namespace testesoma
             for (int i = 0; i < valores.Count; i++)
             {
                 if (valores[i] % 2 == 0)
-                    soma += valores[i];
+                    soma += valores[i]; 
             }
             return soma;
         }
-
         public static void mostrarNaTela(int res) 
         {
             int soma = res;
@@ -32,3 +31,5 @@ namespace testesoma
     }
 }
  
+
+
