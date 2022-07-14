@@ -24,6 +24,7 @@ namespace OOP
             Console.WriteLine("Resultado: ");
             Console.WriteLine("Valor do Salario para {0}, é -> {1}", aux2, herdaFuncionarios.calculaSalario(aux2));
 
+        
         }
     }
 }
