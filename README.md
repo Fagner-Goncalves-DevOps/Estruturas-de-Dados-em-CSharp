@@ -29,3 +29,5 @@ Conteúdo aplicado e organizado, com bases em estudos e apostilhas, livros e art
 - Matriz2
 - MultMatriz
 - Ordenar
+## 03-ListasDados
+## 04-BuscaDeDados
