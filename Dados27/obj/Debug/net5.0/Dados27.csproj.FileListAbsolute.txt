@@ -1,0 +1,16 @@
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Dados27\bin\Debug\net5.0\Dados27.exe
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Dados27\bin\Debug\net5.0\Dados27.deps.json
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Dados27\bin\Debug\net5.0\Dados27.runtimeconfig.json
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Dados27\bin\Debug\net5.0\Dados27.runtimeconfig.dev.json
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Dados27\bin\Debug\net5.0\Dados27.dll
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Dados27\bin\Debug\net5.0\ref\Dados27.dll
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Dados27\bin\Debug\net5.0\Dados27.pdb
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Dados27\obj\Debug\net5.0\Dados27.csproj.AssemblyReference.cache
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Dados27\obj\Debug\net5.0\Dados27.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Dados27\obj\Debug\net5.0\Dados27.AssemblyInfoInputs.cache
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Dados27\obj\Debug\net5.0\Dados27.AssemblyInfo.cs
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Dados27\obj\Debug\net5.0\Dados27.csproj.CoreCompileInputs.cache
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Dados27\obj\Debug\net5.0\Dados27.dll
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Dados27\obj\Debug\net5.0\ref\Dados27.dll
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Dados27\obj\Debug\net5.0\Dados27.pdb
+C:\ProgramData\Temporario\GitHubGeral\AspNetCore\EstruturasDeDadosCSharp\EstruturasDeDados\Dados27\obj\Debug\net5.0\Dados27.genruntimeconfig.cache
