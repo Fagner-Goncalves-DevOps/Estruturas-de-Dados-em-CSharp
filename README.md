@@ -1,4 +1,4 @@
-# Estruturas de Dados em CSharp
+# Estruturas de Dados em CSharp.
 
 Conteúdo aplicado e organizado, com bases em estudos e apostilhas, livros e artigos
 
@@ -32,3 +32,5 @@ Conteúdo aplicado e organizado, com bases em estudos e apostilhas, livros e art
 ## 03-ListasDados
 ## 04-BuscaDeDados
 ## 05
+## 06
+## 07
