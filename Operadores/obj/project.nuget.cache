@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qTb9Kozw6+iQHg8YaEWKCwD2zRDixzDY8Em6cOc8PwyBuNNMmH1Ohxizw+ErJdwOoiIuxv6K87S9aeAfdE3qeg==",
+  "dgSpecHash": "IPlStLTYfbx93iE5lVIFooRgAr5esSpxm6MdOZyX3nnnYj5DuNEbHPSR20wRAHjktilIsnVMpK82t22h1bSJ0g==",
   "success": true,
-  "projectFilePath": "C:\\ProgramData\\Temporario\\GitHubGeral\\AspNetCore\\EstruturasDeDadosCSharp\\EstruturasDeDados\\Operadores\\Operadores.csproj",
+  "projectFilePath": "C:\\GitHubGeral\\AspNetGeral\\Estruturas-de-Dados-em-CSharp\\Estruturas-de-Dados-em-CSharp\\Operadores\\Operadores.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

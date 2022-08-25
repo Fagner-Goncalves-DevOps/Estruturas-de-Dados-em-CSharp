@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ma336aTRYd4BLxTz7rNmj5LxpZww9NY82tec/VXAmirXlWjJgZt/X+4nxC4Fs5kHCv1bUg6OjVt01+c2iJUxFQ==",
+  "dgSpecHash": "CF415JpMwXfeR15Yemc0dYZVkx2DTR8dOoSbaEYz2+GVC2/Pp7LxEUeaMBXPtVRUAXGX1z872UsWRPvW45j+3Q==",
   "success": true,
-  "projectFilePath": "C:\\ProgramData\\Temporario\\GitHubGeral\\AspNetCore\\EstruturasDeDadosCSharp\\EstruturasDeDados\\ModeloSoma\\ModeloSoma.csproj",
+  "projectFilePath": "C:\\GitHubGeral\\AspNetGeral\\Estruturas-de-Dados-em-CSharp\\Estruturas-de-Dados-em-CSharp\\ModeloSoma\\ModeloSoma.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
