@@ -8,25 +8,23 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\goncalves.fagner\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Fagner\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProgramData\\Temporario\\GitHubGeral\\AspNetCore\\EstruturasDeDadosCSharp\\EstruturasDeDados\\Dados1\\Dados1.csproj",
+      "projectUniqueName": "C:\\GitHubGeral\\AspNetGeral\\Estruturas-de-Dados-em-CSharp\\Estruturas-de-Dados-em-CSharp\\Dados1\\Dados1.csproj",
       "projectName": "Dados1",
-      "projectPath": "C:\\ProgramData\\Temporario\\GitHubGeral\\AspNetCore\\EstruturasDeDadosCSharp\\EstruturasDeDados\\Dados1\\Dados1.csproj",
-      "packagesPath": "C:\\Users\\goncalves.fagner\\.nuget\\packages\\",
-      "outputPath": "C:\\ProgramData\\Temporario\\GitHubGeral\\AspNetCore\\EstruturasDeDadosCSharp\\EstruturasDeDados\\Dados1\\obj\\",
+      "projectPath": "C:\\GitHubGeral\\AspNetGeral\\Estruturas-de-Dados-em-CSharp\\Estruturas-de-Dados-em-CSharp\\Dados1\\Dados1.csproj",
+      "packagesPath": "C:\\Users\\Fagner\\.nuget\\packages\\",
+      "outputPath": "C:\\GitHubGeral\\AspNetGeral\\Estruturas-de-Dados-em-CSharp\\Estruturas-de-Dados-em-CSharp\\Dados1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\goncalves.fagner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Fagner\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -67,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
       }
     }
   }

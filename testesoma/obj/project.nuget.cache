@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IF6CcImZiWy8l79ZCHUM95DoKQ7llyJYb71TKb32Z/JhFoz6DIYqJvXHCXtxlMa4kca6mmaFVk5KzDEvLXAZFQ==",
+  "dgSpecHash": "auhkdUXS+pzYzi6NqbMmb3X9i2qF6tyzZtCj18j6aIaiycqArSpQzuQ52AqmR7ZjEUWfM/vmhjczYzN9WVH/iw==",
   "success": true,
-  "projectFilePath": "C:\\ProgramData\\Temporario\\GitHubGeral\\AspNetCore\\EstruturasDeDadosCSharp\\EstruturasDeDados\\testesoma\\testesoma.csproj",
+  "projectFilePath": "C:\\GitHubGeral\\AspNetGeral\\Estruturas-de-Dados-em-CSharp\\Estruturas-de-Dados-em-CSharp\\testesoma\\testesoma.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

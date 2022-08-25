@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iIPx3FRB+q6WsjPEUdXi/xgQeHfW04wl9ECiCPqrgk0XcAmSz8709SJ5DPrQZP07miGReL4OfwRunyHgus+ulg==",
+  "dgSpecHash": "LFB4Q7L/rpNXeugY+Ie00u/O7sFKlPrst0A6tc2TjzLvmuB9qWCqIUP2903HXvzjvAu6TDfZDhGHqjmqXZYWXA==",
   "success": true,
-  "projectFilePath": "C:\\ProgramData\\Temporario\\GitHubGeral\\AspNetCore\\EstruturasDeDadosCSharp\\EstruturasDeDados\\Dados6\\Dados6.csproj",
+  "projectFilePath": "C:\\GitHubGeral\\AspNetGeral\\Estruturas-de-Dados-em-CSharp\\Estruturas-de-Dados-em-CSharp\\Dados6\\Dados6.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

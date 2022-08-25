@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tn1XFDDOaUSNgj9nRtE0mFj9qUlP8xNldjJlQ3EXAkTngJlmwiRtcl/eEKwUcqxvkHVGTQIWzqIROdb/chxnJA==",
+  "dgSpecHash": "1HwMNVudStRmTHuDmBr+d0depVPHgKRTM6oCouKiosvlRVYA9fGys14TTi4LHdg37ICZDWep0lDlUZg3kVu2rg==",
   "success": true,
-  "projectFilePath": "C:\\ProgramData\\Temporario\\GitHubGeral\\AspNetCore\\EstruturasDeDadosCSharp\\EstruturasDeDados\\Ordenar\\Ordenar.csproj",
+  "projectFilePath": "C:\\GitHubGeral\\AspNetGeral\\Estruturas-de-Dados-em-CSharp\\Estruturas-de-Dados-em-CSharp\\Ordenar\\Ordenar.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

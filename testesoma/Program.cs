@@ -5,6 +5,7 @@ namespace testesoma
 {
     class Program
     {
+        //modelo de soma pares, com metodos separados
         static void Main(string[] args)
         {
            var result = somarPares();
