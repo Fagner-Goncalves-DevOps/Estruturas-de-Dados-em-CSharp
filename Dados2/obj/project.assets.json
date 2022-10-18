@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHubGeral\\AspNetGeral\\Estruturas-de-Dados-em-CSharp\\Estruturas-de-Dados-em-CSharp\\Dados2\\Dados2.csproj",
+      "projectUniqueName": "C:\\GitHubGeral\\Estruturas-de-Dados-em-CSharp\\Dados2\\Dados2.csproj",
       "projectName": "Dados2",
-      "projectPath": "C:\\GitHubGeral\\AspNetGeral\\Estruturas-de-Dados-em-CSharp\\Estruturas-de-Dados-em-CSharp\\Dados2\\Dados2.csproj",
+      "projectPath": "C:\\GitHubGeral\\Estruturas-de-Dados-em-CSharp\\Dados2\\Dados2.csproj",
       "packagesPath": "C:\\Users\\Fagner\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHubGeral\\AspNetGeral\\Estruturas-de-Dados-em-CSharp\\Estruturas-de-Dados-em-CSharp\\Dados2\\obj\\",
+      "outputPath": "C:\\GitHubGeral\\Estruturas-de-Dados-em-CSharp\\Dados2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHubGeral\\AspNetGeral\\Estruturas-de-Dados-em-CSharp\\Estruturas-de-Dados-em-CSharp\\Dados8a\\Dados8a.csproj": {}
+    "C:\\GitHubGeral\\Estruturas-de-Dados-em-CSharp\\Dados8a\\Dados8a.csproj": {}
   },
   "projects": {
-    "C:\\GitHubGeral\\AspNetGeral\\Estruturas-de-Dados-em-CSharp\\Estruturas-de-Dados-em-CSharp\\Dados8a\\Dados8a.csproj": {
+    "C:\\GitHubGeral\\Estruturas-de-Dados-em-CSharp\\Dados8a\\Dados8a.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHubGeral\\AspNetGeral\\Estruturas-de-Dados-em-CSharp\\Estruturas-de-Dados-em-CSharp\\Dados8a\\Dados8a.csproj",
+        "projectUniqueName": "C:\\GitHubGeral\\Estruturas-de-Dados-em-CSharp\\Dados8a\\Dados8a.csproj",
         "projectName": "Dados8a",
-        "projectPath": "C:\\GitHubGeral\\AspNetGeral\\Estruturas-de-Dados-em-CSharp\\Estruturas-de-Dados-em-CSharp\\Dados8a\\Dados8a.csproj",
+        "projectPath": "C:\\GitHubGeral\\Estruturas-de-Dados-em-CSharp\\Dados8a\\Dados8a.csproj",
         "packagesPath": "C:\\Users\\Fagner\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHubGeral\\AspNetGeral\\Estruturas-de-Dados-em-CSharp\\Estruturas-de-Dados-em-CSharp\\Dados8a\\obj\\",
+        "outputPath": "C:\\GitHubGeral\\Estruturas-de-Dados-em-CSharp\\Dados8a\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

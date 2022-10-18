@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHubGeral\\AspNetGeral\\Estruturas-de-Dados-em-CSharp\\Estruturas-de-Dados-em-CSharp\\Ordenar\\Ordenar.csproj": {}
+    "C:\\GitHubGeral\\Estruturas-de-Dados-em-CSharp\\Ordenar\\Ordenar.csproj": {}
   },
   "projects": {
-    "C:\\GitHubGeral\\AspNetGeral\\Estruturas-de-Dados-em-CSharp\\Estruturas-de-Dados-em-CSharp\\Ordenar\\Ordenar.csproj": {
+    "C:\\GitHubGeral\\Estruturas-de-Dados-em-CSharp\\Ordenar\\Ordenar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHubGeral\\AspNetGeral\\Estruturas-de-Dados-em-CSharp\\Estruturas-de-Dados-em-CSharp\\Ordenar\\Ordenar.csproj",
+        "projectUniqueName": "C:\\GitHubGeral\\Estruturas-de-Dados-em-CSharp\\Ordenar\\Ordenar.csproj",
         "projectName": "Ordenar",
-        "projectPath": "C:\\GitHubGeral\\AspNetGeral\\Estruturas-de-Dados-em-CSharp\\Estruturas-de-Dados-em-CSharp\\Ordenar\\Ordenar.csproj",
+        "projectPath": "C:\\GitHubGeral\\Estruturas-de-Dados-em-CSharp\\Ordenar\\Ordenar.csproj",
         "packagesPath": "C:\\Users\\Fagner\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHubGeral\\AspNetGeral\\Estruturas-de-Dados-em-CSharp\\Estruturas-de-Dados-em-CSharp\\Ordenar\\obj\\",
+        "outputPath": "C:\\GitHubGeral\\Estruturas-de-Dados-em-CSharp\\Ordenar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

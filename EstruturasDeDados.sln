@@ -79,7 +79,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dados29", "Dados29\Dados29.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06-Arvores", "06-Arvores", "{34EA9894-93BA-41F2-9E05-C660940EBE68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dados37", "Dados37\Dados37.csproj", "{3F8FF605-F6FC-4834-9482-33450BCF8756}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dados37", "Dados37\Dados37.csproj", "{3F8FF605-F6FC-4834-9482-33450BCF8756}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

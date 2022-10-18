@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHubGeral\\AspNetGeral\\Estruturas-de-Dados-em-CSharp\\Estruturas-de-Dados-em-CSharp\\ModeloSoma1a\\ModeloSoma1a.csproj": {}
+    "C:\\GitHubGeral\\Estruturas-de-Dados-em-CSharp\\ModeloSoma1a\\ModeloSoma1a.csproj": {}
   },
   "projects": {
-    "C:\\GitHubGeral\\AspNetGeral\\Estruturas-de-Dados-em-CSharp\\Estruturas-de-Dados-em-CSharp\\ModeloSoma1a\\ModeloSoma1a.csproj": {
+    "C:\\GitHubGeral\\Estruturas-de-Dados-em-CSharp\\ModeloSoma1a\\ModeloSoma1a.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHubGeral\\AspNetGeral\\Estruturas-de-Dados-em-CSharp\\Estruturas-de-Dados-em-CSharp\\ModeloSoma1a\\ModeloSoma1a.csproj",
+        "projectUniqueName": "C:\\GitHubGeral\\Estruturas-de-Dados-em-CSharp\\ModeloSoma1a\\ModeloSoma1a.csproj",
         "projectName": "ModeloSoma1a",
-        "projectPath": "C:\\GitHubGeral\\AspNetGeral\\Estruturas-de-Dados-em-CSharp\\Estruturas-de-Dados-em-CSharp\\ModeloSoma1a\\ModeloSoma1a.csproj",
+        "projectPath": "C:\\GitHubGeral\\Estruturas-de-Dados-em-CSharp\\ModeloSoma1a\\ModeloSoma1a.csproj",
         "packagesPath": "C:\\Users\\Fagner\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHubGeral\\AspNetGeral\\Estruturas-de-Dados-em-CSharp\\Estruturas-de-Dados-em-CSharp\\ModeloSoma1a\\obj\\",
+        "outputPath": "C:\\GitHubGeral\\Estruturas-de-Dados-em-CSharp\\ModeloSoma1a\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
