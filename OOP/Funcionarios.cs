@@ -14,13 +14,13 @@ namespace OOP
             switch (cargo) 
             {
                 case "Gerente":
-                    return 2500;
+                    return 3000;
                 case "Diretor":
                     return 4500;
                 case "Funcionario":
                     return 1500;
                 default:
-                    return 1500;
+                    return 2000;
             }
         }
     }
