@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OOP
 {
-    public class HerdaFuncionarios : Funcionarios
+    public class HerdaFuncionarios : Funcionarios //herança aqui
     {
 
         public override int calculaSalario(string cargo)
